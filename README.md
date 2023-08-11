@@ -1,6 +1,8 @@
 # K8-Project-Reddit-clone
  🚀 Reddit Clone Containerized with Kubernetes &amp; Ingress on AWS EKS
 
+** https://docs.aws.amazon.com/eks/latest/userguide/alb-ingress.html
+
 This repository contains the necessary configurations and instructions to deploy a Reddit clone application in a Kubernetes cluster on AWS EKS. 
 It leverages an Ingress controller for external access.
 
