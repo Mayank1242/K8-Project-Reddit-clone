@@ -6,6 +6,7 @@ It leverages an Ingress controller for external access.
 
 ## Prerequisites
 
+- 🔒 Download and Install AWS CLI 
 - ☁️ AWS EKS cluster is set up and configured.(if not then go to make file and run that commands from there)
 - 🐙 `kubectl` and `eksctl` CLI tools are installed and configured.
 - 🐳 Docker and Docker Compose are installed.
