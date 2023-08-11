@@ -17,6 +17,6 @@ It leverages an Ingress controller for external access.
 
    ```bash
    git clone https://github.com/Mayank1242/K8-Project-Reddit-clone
-   cd reddit-clone-eks
+   cd K8-Project-Reddit-clone
 
 2. Now go with Makefile. 
